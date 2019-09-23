@@ -1,4 +1,4 @@
-# Seattle JS RN App
+# Seattle JS React Native EXPO App
 
 ## Getting Started
 
